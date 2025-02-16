@@ -1,3 +1,5 @@
+Antisyphon info
+
 # SOC Core Skills v3
 
 _🐘 I took SO many notes throughout this course.  I'm going to go through them a bit slowly, decipher my notes, and summarize them into something comprehensible!_
