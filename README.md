@@ -1,30 +1,12 @@
-Antisyphon info
+[Antisyphon Training](https://www.antisyphontraining.com/)
 
-# SOC Core Skills v3
+[Antisyphon info](https://www.antisyphontraining.com/about/)
 
-_🐘 I took SO many notes throughout this course.  I'm going to go through them a bit slowly, decipher my notes, and summarize them into something comprehensible!_
+I heard that Black Hills Information Security (BHIS) training initiative called Antisyphon, and decided to give them a shot!
+I took SOC Core Skills V3 in February 2025, just to learn...how much there is to learn!
+I already knew it would never stop, but this course gave me some much needed insight into the world of living and breathing cybersecurity!
+I look forward to trying out other courses with them!  Here's their [course catalog](https://www.antisyphontraining.com/course-catalog/)!
+Here's my list o' courses I'm interested in from them!
 
-## Section 1
-### Course Intro
-### You Are Compromised? What Now?
-### Let's Start With TCP/IP
-### IP Header
-### TCP Header
-### UDP Header
-### TCP Three way Handshake
-### Top Ports
-### Shodan
-### TCP Dump
-### Lab: TCPDump (Intro)
-### Lab: TCPDump (Walkthrough)
-### Wireshark
-### Lab: Wireshark (Intro)
-### Lab: Wireshark (Walkthrough)
-### Q&A
-### Now...Linux (Part 1)
-### Bonus: Job Hunting with Jason Blanchard
-### Ask Me Anything
-## Section 2
-### 
-## Section 3
-## Section 4
+- Workshop: Intro to Active Directory: 2/21/2025 - 1100-1600 EST/0900-1300 MST
+
