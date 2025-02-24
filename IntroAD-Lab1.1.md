@@ -1,3 +1,4 @@
+# I have Questions!
 Phew!  Those first labs were dealing with the Domain Controller only.  
 I was wondering, how often are we setting up the Domain Controller Anyways?  I can see how we would have to manage groups and users pretty regularly, but I was wondering about some of the "initial" stuff from Lab 2.  So I did what any person would in this day and age!  I asked Copilot (or whatever LLM you want)!
 
