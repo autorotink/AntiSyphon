@@ -1,4 +1,4 @@
-🐘 I took an Introduction to Active Directory with Dale Hobbs.  It was quite instructional!  I really liked the lab!
+🐘 I took an Introduction to Active Directory with Dale Hobbs.  It was quite instructional!  I really like the lab!
 ### Course Overview
 
 The course covered a comprehensive introduction to Active Directory, perfect for beginners and a valuable refresher for experienced users. It provided hands-on experience in setting up and administering Active Directory (AD) and touched on essential topics and best practices.
@@ -45,3 +45,8 @@ The course covered a comprehensive introduction to Active Directory, perfect for
 - Hands-on labs focused on setting up and administering Active Directory.
 - Practical exercises included setting up objects, delegations, and using templates.
 - Various tools and techniques for troubleshooting and applying best practices were explored.
+
+It took me a while to complete the lab.  There were nine labs total, and they are documented below: and I documented it below:
+Lab 1.0 - Virtual Machine Setup; Installing the Domain Controller; Create OUs, Users, and Groups
+Lab 1.1 - Further inquiries in to Active Directory
+Lab 2.0 - 
