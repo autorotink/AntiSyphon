@@ -49,12 +49,4 @@
 - Login to Client, using Domain Administrator credentials > Launch "Computer Management"
 - Expand `Local Users and Groups` > Select `Groups` > Right-Click `Remote Desktop Users` > Select `Properties` > Select `Add` and add "Domain Users" > Select `OK` x2.
 - Repeat this Task on Member Server machine.
-- "You've successfully joined your Client and Member Server to the Active Directory domain"
-# Lab 005 - Setup Permissions and Access Control
-
-## Task 1 - Viewing Object Properties and Permissions
-## Task 2 - Delegating Control of an OU
-## Task 3 - Checking Effective Permissions
-## Task 4 - Install ADUC on Client
-## Task 5 - Testing Permissions
-# Lab 006 - 
+Conclusion: "You've successfully joined your Client and Member Server to the Active Directory domain"
